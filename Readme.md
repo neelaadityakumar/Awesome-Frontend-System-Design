@@ -3,6 +3,24 @@
 [Golden Rule](Golden-Rule.md)
 [Facebook News Feed](Facebook-News-Feed.md)
 
+# Web Performance Articles
+
+## Engineering Blogs
+
+- [Making Instagram.com Faster – Part 1](https://instagram-engineering.com/making-instagram-com-faster-part-1-62cc0c327538)
+- [Making Instagram.com Faster – Part 2](https://instagram-engineering.com/making-instagram-com-faster-part-2-f350c8fba0d4)
+- [Making Instagram.com Faster – Part 3: Cache First](https://instagram-engineering.com/making-instagram-com-faster-part-3-cache-first-6f3f130b9669)
+- [Making Instagram.com Faster – Part 4: Code Size and Execution Optimizations](https://instagram-engineering.com/making-instagram-com-faster-code-size-and-execution-optimizations-part-4-57668be796a8)
+- [Shopping for Speed on eBay.com](https://medium.com/@addyosmani/shopping-for-speed-on-ebay-com-6229711d7573)
+- [Building a Better Web: A Faster YouTube on Web](https://medium.com/@addyosmani/building-a-better-web-a-faster-youtube-on-web-24b1dc03716)
+- [A Netflix Web Performance Case Study](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9)
+
+## Medium Articles
+
+- [Preload, Prefetch, and Priorities in Chrome](https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf)
+- [A Link rel="preload" Analysis from the Chrome Data Saver Team](https://medium.com/reloading/a-link-rel-preload-analysis-from-the-chrome-data-saver-team-5edf54b08715)
+- [The Cost of JavaScript](https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e)
+
 ## 🎥 Videos
 
 1. [How to prepare your Frontend System Design Interview](https://www.youtube.com/watch?v=JhcW0fuR_ig)

@@ -65,5 +65,3 @@
 - **Accessibility Testing**: Use tools like Lighthouse or Axe to check accessibility compliance and identify potential issues.
 
 By adhering to these golden rules, developers can create highly performant, scalable, maintainable, and accessible frontend applications that provide a seamless user experience while following best industry practices.
-
-Originally From : 👉 [daddyTrump](https://leetcode.com/discuss/post/3619937/golden-rules-in-a-frontend-system-design-slc5/)

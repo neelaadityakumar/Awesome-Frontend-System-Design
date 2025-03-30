@@ -34,7 +34,7 @@
 
 ### Component Architecture
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/97113431-9d68-4711-a20c-0b5ec04ab507/1e043421-5e6f-45c5-88b1-5cb2682adeb1/image.png)
+![image.png](/public/nf-component.png)
 
 - Basic Components:
   - **Story Component**:
@@ -102,7 +102,7 @@
 
 # **Frontend Datastore and Organization**
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/97113431-9d68-4711-a20c-0b5ec04ab507/fdf091bc-3f04-4eb5-a8a8-d8d617a51f42/image.png)
+![image.png](/public/nf-fdo.png)
 
 1. **Frontend Store Design**:
    - Frontend applications often need fast access to data, as they operate within browsers that run across various devices with limited resources. Efficient data organization is key.
@@ -184,7 +184,7 @@
 
 # Infinite Scroll
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/97113431-9d68-4711-a20c-0b5ec04ab507/59cd124b-2f46-40b2-9fcd-951a5d543310/image.png)
+![image.png](/public/nf-infinite.png.png)
 
 - Key feature of Facebook News Feed.
 - Implementation:
@@ -240,7 +240,7 @@
 
 # Optimization
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/97113431-9d68-4711-a20c-0b5ec04ab507/42df0306-bcb2-4605-b443-fa62b3527b50/image.png)
+![image.png](/public/nf-optimization.png)
 
 ### Optimization Breakdown
 

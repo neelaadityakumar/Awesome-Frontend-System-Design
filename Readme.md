@@ -1,5 +1,15 @@
 # Awesome Frontend System Design
 
+<div markdown="1">
+   <!-- Embed another Markdown file -->
+   {% include "Golden-Rule.md" %}
+</div>
+
+<div markdown="2">
+   <!-- Embed another Markdown file -->
+   {% include "Facebook-News-Feed.md" %}
+</div>
+
 ## 🎥 Videos
 
 1. [How to prepare your Frontend System Design Interview](https://www.youtube.com/watch?v=JhcW0fuR_ig)

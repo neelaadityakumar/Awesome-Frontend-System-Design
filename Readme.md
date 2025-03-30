@@ -20,7 +20,8 @@
 - [The Cost of JavaScript](https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e)
 - [Normalizing State Shape](https://redux.js.org/usage/structuring-reducers/normalizing-state-shape)
 - [Infinite Scroll Without Layout Shifts](https://addyosmani.com/blog/infinite-scroll-without-layout-shifts/)
-- [Learn Performance](https://web.dev/learn/performance)
+- [Performance: web.dev](https://web.dev/learn/performance)
+- [Performance: perfplanet](https://calendar.perfplanet.com/2024/)
 
 ## 🎥 Videos
 

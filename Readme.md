@@ -3,8 +3,6 @@
 [Golden Rule](Golden-Rule.md)
 [Facebook News Feed](Facebook-News-Feed.md)
 
-# Web Performance Articles
-
 ## Engineering Blogs
 
 - [Making Instagram.com Faster – Part 1](https://instagram-engineering.com/making-instagram-com-faster-part-1-62cc0c327538)
@@ -15,11 +13,14 @@
 - [Building a Better Web: A Faster YouTube on Web](https://medium.com/@addyosmani/building-a-better-web-a-faster-youtube-on-web-24b1dc03716)
 - [A Netflix Web Performance Case Study](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9)
 
-## Medium Articles
+## Engineering Articles
 
 - [Preload, Prefetch, and Priorities in Chrome](https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf)
 - [A Link rel="preload" Analysis from the Chrome Data Saver Team](https://medium.com/reloading/a-link-rel-preload-analysis-from-the-chrome-data-saver-team-5edf54b08715)
 - [The Cost of JavaScript](https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e)
+- [Normalizing State Shape](https://redux.js.org/usage/structuring-reducers/normalizing-state-shape)
+- [Infinite Scroll Without Layout Shifts](https://addyosmani.com/blog/infinite-scroll-without-layout-shifts/)
+- [Learn Performance](https://web.dev/learn/performance)
 
 ## 🎥 Videos
 

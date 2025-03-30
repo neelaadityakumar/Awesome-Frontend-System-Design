@@ -12,9 +12,9 @@
 
 ---
 
-### General Requirements[feature]
+### Functional Requirements[Feature]
 
-- Build an _infinite scrollable news feed_.
+- Build an Infinite scrollable news feed.
 - Stories appear based on:
   - User subscriptions (friends, group pages, etc.).
 - Enable users to:
@@ -24,11 +24,10 @@
 
 ---
 
-### Specific Requirements
+### Functional Requirements
 
-- Non Functional requirements:
-  - Feature must work on a wide range of devices.
-  - Must be accessible for users with disabilities.
+- Feature must work on a wide range of devices.
+- Must be accessible for users with disabilities.
 
 ---
 
@@ -184,7 +183,7 @@
 
 # Infinite Scroll
 
-![image.png](/public/nf-infinite.png.png)
+![image.png](/public/nf-infinite.png)
 
 - Key feature of Facebook News Feed.
 - Implementation:
@@ -297,4 +296,4 @@ These strategies collectively optimize website performance, reducing load times,
     - Returning to the main menu.
     - Accessing sharing options.
 
-Original From : 👉 [Front-End Engineer](https://www.youtube.com/@FrontEndEngineer)
+Originally From : 👉 [Front-End Engineer](https://www.youtube.com/@FrontEndEngineer)

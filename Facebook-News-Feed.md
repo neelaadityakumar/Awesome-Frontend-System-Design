@@ -1,7 +1,7 @@
 ### High-Level Plan
 
-1. Functional Requirements[ main feature ]
-2. Non Functional Requirements (platforms and accessibility)
+1. Functional Requirements[ Main Features ]
+2. Non Functional Requirements (Platforms and Accessibility)
 3. Component Architecture
 4. Data Entities
 5. Data API

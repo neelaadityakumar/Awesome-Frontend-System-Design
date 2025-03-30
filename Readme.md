@@ -1,14 +1,7 @@
 # Awesome Frontend System Design
 
-<div markdown="1">
-   <!-- Embed another Markdown file -->
-   {% include "Golden-Rule.md" %}
-</div>
-
-<div markdown="2">
-   <!-- Embed another Markdown file -->
-   {% include "Facebook-News-Feed.md" %}
-</div>
+[Golden Rule](Golden-Rule.md)
+[Facebook News Feed](Facebook-News-Feed.md)
 
 ## 🎥 Videos
 
